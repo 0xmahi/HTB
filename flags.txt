@@ -1,0 +1,5 @@
+FreeLancer:
+It was an SQLi, 
+	/portfolio.php?id=1
+HTB{s4ff_3_1_w33b_fr4__l33nc_3}
+
